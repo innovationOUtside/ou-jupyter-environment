@@ -1,3 +1,4 @@
+#!/bin/bash
 # Install and enable extensions
 
 INSTALL_PREFIX=sys-prefix  #user
