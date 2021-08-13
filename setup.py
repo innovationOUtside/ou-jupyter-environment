@@ -59,4 +59,4 @@ setup(
 
 import subprocess
  
-subprocess.run(["./installation.sh"])
+subprocess.run(["./installation.sh"], shell=True)
