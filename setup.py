@@ -57,3 +57,6 @@ setup(
     ],
 )
 
+import subprocess
+ 
+subprocess.run(["./installation.sh"])
